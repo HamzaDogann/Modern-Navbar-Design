@@ -15,6 +15,8 @@ You can use it in your projects.
 
 --------------------------------------------------------------
 
+Deploy Site : https://modern-navbar-hdogan.netlify.app/
+
 Örnek Fotoğraflar / Example Photos
 
 ![1](https://github.com/HamzaDogann/Modern-Navbar-Design/assets/93007915/71b756ed-b504-4f0f-a9a0-06663534a243)
@@ -29,7 +31,7 @@ You can use it in your projects.
 
 ![6](https://github.com/HamzaDogann/Modern-Navbar-Design/assets/93007915/6e54dd1e-0146-48d8-8b07-b954fd2d87a8)
 
-Deploy Site :
+
 
 
 
